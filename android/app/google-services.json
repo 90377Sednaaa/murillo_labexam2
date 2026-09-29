@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988437358510",
+    "project_id": "labexam2-murillo",
+    "storage_bucket": "labexam2-murillo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988437358510:android:d0b848ce211f9ba6690a3f",
+        "android_client_info": {
+          "package_name": "com.example.murillo_labexam2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTNphhEwEU_wpnO94S8xpbW9sxi1anLlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
